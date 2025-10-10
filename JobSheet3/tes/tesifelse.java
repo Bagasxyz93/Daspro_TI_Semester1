@@ -5,18 +5,20 @@ public class tesifelse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int bilangan;
-        System.out.print("Masukkan sebuah bilangan : ");
-        bilangan = sc.nextInt();
+        int nilai;
+        int jumlahPrestasi;
 
-        if (bilangan < 0) {
-            System.out.println("Bilangan " + bilangan + " Adalah bilangan Negatif");
-        }
-        else if (bilangan > 0) {
-            System.out.println("Bilangan " + bilangan + " Adalah bilangan Positif");
+        System.out.println("Masukkan rata rata Nilai : ");
+        nilai = sc.nextInt();
+
+        System.out.println("Masukkan Jumlah Prestasi : ");
+        jumlahPrestasi = sc.nextInt();
+
+        if(nilai > 95 && jumlahPrestasi > 20){
+            System.out.println("Kamu adalah Mahasiswa terbaik YEAYYYYY!!!!!");
         }
         else{
-            System.out.println("Bilangan " + bilangan + " Adalah Nol");
+            System.out.println("NICE TRYY  NTNTNTNTNTNT");
         }
 
         sc.close();
