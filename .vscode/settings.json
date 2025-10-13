@@ -1,8 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "JobSheet5\\Percobaan1",
         ".",
-        "JobSheet1"
+        "JobSheet1",
+        "JobSheet5"
     ],
     "java.project.referencedLibraries": []
 }
