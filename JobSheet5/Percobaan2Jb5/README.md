@@ -15,4 +15,4 @@
  1. Kegunaan break adalah untuk keluar dari case ketika suatu case terpenuhi.
  2. Peran default pada struktur Switch-Case adalah ketika semua case tidak terpenuhi maka default akan di jalan kan.
  3. ![Mengganti Switch Case](img/switchCase.png)
- 4. 
+ 4. ![Commint and Push](img/ssSwitchcase.png)
