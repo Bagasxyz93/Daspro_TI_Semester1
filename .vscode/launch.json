@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SiakadForNoAbsen",
+            "request": "launch",
+            "mainClass": "jobsheet7.percobaan3jbs7.SiakadForNoAbsen",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhileNoAbsen",
+            "request": "launch",
+            "mainClass": "jobsheet7.percobaan2jbs7.SiakadWhileNoAbsen",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "SiakadNoAbsen",
+            "request": "launch",
+            "mainClass": "jobsheet7.percobaan1jbs7.SiakadNoAbsen",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "CRUDArray",
+            "request": "launch",
+            "mainClass": "CRUDArray",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan19",
+            "request": "launch",
+            "mainClass": "ArrayBilangan19",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilanagan19",
+            "request": "launch",
+            "mainClass": "ArrayBilanagan19",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
