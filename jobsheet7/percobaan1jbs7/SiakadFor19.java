@@ -1,7 +1,7 @@
 package jobsheet7.percobaan1jbs7;
 import java.util.Scanner;
 
-public class SiakadForNoAbsen {
+public class SiakadFor19 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double nilai, tertinggi = 0, terendah = 100;

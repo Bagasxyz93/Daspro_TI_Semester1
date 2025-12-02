@@ -4,5 +4,6 @@
         "JobSheet1",
         "JobSheet5"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }

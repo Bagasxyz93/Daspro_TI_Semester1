@@ -1,7 +1,7 @@
 package jobsheet7.percobaan3jbs7;
 import java.util.Scanner;
 
-public class SiakadForNoAbsen {
+public class KafeDoWhile19 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int kopi, teh, roti;
