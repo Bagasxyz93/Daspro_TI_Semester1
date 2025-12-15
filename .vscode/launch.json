@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Magang",
+            "request": "launch",
+            "mainClass": "Magang",
+            "projectName": "Daspro_TI_Semester1_7635ab86"
+        },
+        {
+            "type": "java",
             "name": "bioskop",
             "request": "launch",
             "mainClass": "bioskop",
