@@ -11,13 +11,10 @@ berikut?
     *****
  2. Jika tidak sesuai, bagian mana saja yang harus diperbaiki/ditambahkan? Jelaskan
 setiap bagian yang perlu diperbaiki/ditambahkan.
- 3. Silakan commit dan push ke repository Anda.
- 4. Jelaskan peran masing-masing variabel i dan j dalam program ini. Mengapa j di-set
-ulang ke 0 di awal setiap iterasi outer loop? Apa yang akan terjadi jika j tidak di-reset?
 
 ## Jawaban
 
- 1. IF tersebut tidak menggunakan operator relasional karena variabel uktLunas ber-tipe data Boolean, Jadi tidak perlu  operator relasional.
- 2. Ketika di isi nilai false maka tidak akan keluar apa apa karena tidak ada else, Jadi program akan berhenti karena   kondisi tidak terpenuhi.
- 3. ![Foto If else](img/ifElse.png)
- 4. ![Mofifikasi Percobaan 1](img/Modifikasi.png)
+1. Output yang dihasilkan dari nilai n = 5 sudah sesuai dengan tampilan seperti di soal. <br>
+> <img width="844" height="781" alt="Screenshot 2025-10-30 213310" src="https://github.com/user-attachments/assets/dd2db93f-fee8-42ef-a5ae-ddb263d207b3" />
+
+2. Tidak ada perbaikan dalam program tersebut dikarenakan sudah sesuai dengan tampilan yang diinginkan. <br>

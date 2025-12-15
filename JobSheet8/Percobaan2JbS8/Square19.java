@@ -1,4 +1,5 @@
-package JobSheet8.Percobaan2JbS8;
+package jobsheet8.percobaan2jbs8;
+
 import java.util.Scanner;
 public class Square19 {
      public static void main(String[] args) {

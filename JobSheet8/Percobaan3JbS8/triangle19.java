@@ -1,5 +1,5 @@
 
-package JobSheet8.Percobaan3JbS8;
+package JobSheet8.percobaan3jbs8;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JobSheet8.Percobaan4JbS8;
+package JobSheet8.percobaan4jbs8;
 
 import java.util.Scanner;
 

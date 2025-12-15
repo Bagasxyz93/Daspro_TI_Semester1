@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package JobSheet8.Tugas1;
+package JobSheet8.tugas1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package JobSheet8.Tugas2;
+package JobSheet8.tugas2;
 
 import java.util.Scanner;
 

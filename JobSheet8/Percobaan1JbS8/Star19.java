@@ -1,4 +1,4 @@
-package JobSheet8.Percobaan1JbS8;
+package JobSheet8.percobaan1jbs8;
 import java.util.Scanner;
 public class Star19 {
 
