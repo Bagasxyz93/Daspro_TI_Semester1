@@ -12,9 +12,8 @@ output seperti berikut ini:
 
 ## Jawaban
 
- 1.
- 2.
- 3. Keluaran dari program tersebut akan sama, Karena itu adalah perulangan untuk mengeluarkan semua isi index 
- 4. Hasil akan tetap keluar tapi pada loop yang ke 4 maka akan keluar error 
-    "Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
-      at ArrayBilangan19.main(ArrayBilangan19.java:11)" maksudnya adalah index 4 tidak ada atau panjang index tidak sampai 4
+1. Berikut ialah hasil modifikasi pada program dapat menampilkan banyaknya mahasiswa yang lulus, yaitu mahasiswa yang memiliki lebih besar dari 70 (>70): <br>
+<img width="740" height="864" alt="Screenshot 2025-11-08 215625" src="https://github.com/user-attachments/assets/91319a1a-6c93-4776-bb0f-20313ef7d9ff" />
+
+2. Berikut ialah hasil modifikasi pada program sehingga program menerima jumlah elemen berdasarkan input dari pengguna : <br>
+<img width="549" height="800" alt="Screenshot 2025-11-08 214436" src="https://github.com/user-attachments/assets/55e51720-5f1e-452a-97f9-d9b70902fa08" />

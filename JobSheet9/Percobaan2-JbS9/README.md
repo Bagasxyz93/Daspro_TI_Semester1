@@ -21,9 +21,9 @@ seperti ilustrasi output berikut:
 
 ## Jawaban
 
- 1.
- 2.
- 3. Keluaran dari program tersebut akan sama, Karena itu adalah perulangan untuk mengeluarkan semua isi index 
- 4. Hasil akan tetap keluar tapi pada loop yang ke 4 maka akan keluar error 
-    "Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
-      at ArrayBilangan19.main(ArrayBilangan19.java:11)" maksudnya adalah index 4 tidak ada atau panjang index tidak sampai 4
+1. Adanya perubahan pada kode "10" yang diubah menjadi "nilaiAkhir.length" dimana saat program dijalankan hasilnya tetap sama yaitu menginput banyak nya nilai akhir. Namun yang membedakan ialah "nilaiAkhir.length" Menyesuaikan jumlah iterasi dengan panjang array yang sebenarnya. Sedangkan "10" angka tetap sehingga Memaksa iterasi sebanyak 10 kali, terlepas dari ukuran array. <br>
+<img width="623" height="898" alt="Screenshot 2025-11-08 213148" src="https://github.com/user-attachments/assets/f3cbd6bc-258e-4c44-8963-20a24477de10" />
+
+2. Yang dimaksud "i > nilaiAkhir.length" ialah Menyesuaikan jumlah iterasi dengan panjang array yang sebenarnya. Jika ukuran array berubah, loop tetap bekerja dengan benar.<br>
+3. Berikut ialah hasil modifikasi program: <br>
+<img width="673" height="908" alt="Screenshot 2025-11-08 213048" src="https://github.com/user-attachments/assets/8476787f-62aa-42ed-bc59-72203fc48222" />
